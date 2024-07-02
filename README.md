@@ -1,0 +1,118 @@
+![](https://github-readme-stats.vercel.app/api?username=minhtuan1407&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+Repo Name: tuan-initialize-system
+=====================
+Repo URL: https://github.com/minhtuan1407/tuan-initialize-system.git
+
+Repo Name: learn-cpp-udemy-the-modern-cpp-20-masterclass
+=====================
+Repo URL: https://github.com/minhtuan1407/learn-cpp-udemy-the-modern-cpp-20-masterclass.git
+
+Repo Name: terraform-oci-personal
+=====================
+Repo URL: https://github.com/minhtuan1407/terraform-oci-personal.git
+
+Repo Name: learn-cpp-youtube--TkoO8Z07hI
+=====================
+Repo URL: https://github.com/minhtuan1407/learn-cpp-youtube--TkoO8Z07hI.git
+
+Repo Name: learn-c-youtube-87SH2Cn0s9A
+=====================
+Repo URL: https://github.com/minhtuan1407/learn-c-youtube-87SH2Cn0s9A.git
+
+Repo Name: conditional-makefile
+=====================
+Repo URL: https://github.com/minhtuan1407/conditional-makefile.git
+
+Repo Name: mac-setup
+=====================
+Repo URL: https://github.com/minhtuan1407/mac-setup.git
+
+Repo Name: docker-vault
+=====================
+Repo URL: https://github.com/minhtuan1407/docker-vault.git
+
+Repo Name: mod_tuan
+=====================
+Repo URL: https://github.com/minhtuan1407/mod_tuan.git
+
+Repo Name: vagrant-tutorial
+=====================
+Repo URL: https://github.com/minhtuan1407/vagrant-tutorial.git
+
+Repo Name: miscellaneous-script
+=====================
+Repo URL: https://github.com/minhtuan1407/miscellaneous-script.git
+
+Repo Name: docker-share-files
+=====================
+Repo URL: https://github.com/minhtuan1407/docker-share-files.git
+
+Repo Name: audio-detect
+=====================
+Repo URL: https://github.com/minhtuan1407/audio-detect.git
+
+Repo Name: pitel-mobile-app
+=====================
+Repo URL: https://github.com/minhtuan1407/pitel-mobile-app.git
+
+Repo Name: ansible-install-fusionpbx-ccp
+=====================
+Repo URL: https://github.com/minhtuan1407/ansible-install-fusionpbx-ccp.git
+
+Repo Name: ansible-install-postgresql-drbd
+=====================
+Repo URL: https://github.com/minhtuan1407/ansible-install-postgresql-drbd.git
+
+Repo Name: git-script
+=====================
+Repo URL: https://github.com/minhtuan1407/git-script.git
+
+Repo Name: ansible-install-tuantest
+=====================
+Repo URL: https://github.com/minhtuan1407/ansible-install-tuantest.git
+
+Repo Name: ansible-install-fusionpbx44
+=====================
+Repo URL: https://github.com/minhtuan1407/ansible-install-fusionpbx44.git
+
+Repo Name: postgresql-drbd-pacemaker-corosync
+=====================
+Repo URL: https://github.com/minhtuan1407/postgresql-drbd-pacemaker-corosync.git
+
+Repo Name: terminal-setup
+=====================
+Repo URL: https://github.com/minhtuan1407/terminal-setup.git
+
+Repo Name: coursera-automating-real-world-tasks-with-python
+=====================
+Repo URL: https://github.com/minhtuan1407/coursera-automating-real-world-tasks-with-python.git
+
+Repo Name: coursera-configuration-management-and-the-cloud
+=====================
+Repo URL: https://github.com/minhtuan1407/coursera-configuration-management-and-the-cloud.git
+
+Repo Name: coursera-troubleshooting-and-debugging-techniques
+=====================
+Repo URL: https://github.com/minhtuan1407/coursera-troubleshooting-and-debugging-techniques.git
+
+Repo Name: coursera-introduction-to-git-and-github
+=====================
+Repo URL: https://github.com/minhtuan1407/coursera-introduction-to-git-and-github.git
+
+Repo Name: coursera-using-python-to-interact-with-the-operating-system
+=====================
+Repo URL: https://github.com/minhtuan1407/coursera-using-python-to-interact-with-the-operating-system.git
+
+Repo Name: ansible-install-astpp
+=====================
+Repo URL: https://github.com/minhtuan1407/ansible-install-astpp.git
+
+Repo Name: coursera-crash-course-on-python
+=====================
+Repo URL: https://github.com/minhtuan1407/coursera-crash-course-on-python.git
+
+Repo Name: ansible-install-fusionpbx-monitor
+=====================
+Repo URL: https://github.com/minhtuan1407/ansible-install-fusionpbx-monitor.git
+
