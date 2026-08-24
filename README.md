@@ -4,6 +4,10 @@ Repo Name: personal-expense-report
 =====================
 Repo URL: https://github.com/minhtuan1407/personal-expense-report.git
 
+Repo Name: HappyBirthday
+=====================
+Repo URL: https://github.com/minhtuan1407/HappyBirthday.git
+
 Repo Name: fund-tracking
 =====================
 Repo URL: https://github.com/minhtuan1407/fund-tracking.git
@@ -23,10 +27,6 @@ Repo URL: https://github.com/minhtuan1407/personal-story.git
 Repo Name: stock-scanner
 =====================
 Repo URL: https://github.com/minhtuan1407/stock-scanner.git
-
-Repo Name: HappyBirthday
-=====================
-Repo URL: https://github.com/minhtuan1407/HappyBirthday.git
 
 Repo Name: register-.is-a.dev
 =====================
