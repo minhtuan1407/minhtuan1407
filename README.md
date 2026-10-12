@@ -1,5 +1,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=minhtuan1407&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+Repo Name: motorcycle-navigation
+=====================
+Repo URL: https://github.com/minhtuan1407/motorcycle-navigation.git
+
+Repo Name: homelab
+=====================
+Repo URL: https://github.com/minhtuan1407/homelab.git
+
 Repo Name: personal-story
 =====================
 Repo URL: https://github.com/minhtuan1407/personal-story.git
