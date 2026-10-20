@@ -4,6 +4,10 @@ Repo Name: motorcycle-navigation
 =====================
 Repo URL: https://github.com/minhtuan1407/motorcycle-navigation.git
 
+Repo Name: flowershop
+=====================
+Repo URL: https://github.com/minhtuan1407/flowershop.git
+
 Repo Name: homelab
 =====================
 Repo URL: https://github.com/minhtuan1407/homelab.git
