@@ -1,5 +1,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=minhtuan1407&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+Repo Name: personal-expense-report
+=====================
+Repo URL: https://github.com/minhtuan1407/personal-expense-report.git
+
 Repo Name: esp32-s3-hud
 =====================
 Repo URL: https://github.com/minhtuan1407/esp32-s3-hud.git
@@ -19,10 +23,6 @@ Repo URL: https://github.com/minhtuan1407/homelab.git
 Repo Name: personal-story
 =====================
 Repo URL: https://github.com/minhtuan1407/personal-story.git
-
-Repo Name: personal-expense-report
-=====================
-Repo URL: https://github.com/minhtuan1407/personal-expense-report.git
 
 Repo Name: fund-tracking
 =====================
