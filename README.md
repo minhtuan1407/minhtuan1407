@@ -1,5 +1,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=minhtuan1407&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+Repo Name: stock-scanner
+=====================
+Repo URL: https://github.com/minhtuan1407/stock-scanner.git
+
 Repo Name: homelab
 =====================
 Repo URL: https://github.com/minhtuan1407/homelab.git
@@ -39,10 +43,6 @@ Repo URL: https://github.com/minhtuan1407/caddy-vpn-proxy.git
 Repo Name: caddy-public
 =====================
 Repo URL: https://github.com/minhtuan1407/caddy-public.git
-
-Repo Name: stock-scanner
-=====================
-Repo URL: https://github.com/minhtuan1407/stock-scanner.git
 
 Repo Name: HappyBirthday
 =====================
