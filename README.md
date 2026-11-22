@@ -1,5 +1,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=minhtuan1407&theme=aura&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+Repo Name: aibi-pocket-debug
+=====================
+Repo URL: https://github.com/minhtuan1407/aibi-pocket-debug.git
+
 Repo Name: stock-scanner
 =====================
 Repo URL: https://github.com/minhtuan1407/stock-scanner.git
@@ -15,10 +19,6 @@ Repo URL: https://github.com/minhtuan1407/esp32-s3-hud.git
 Repo Name: personal-expense-report
 =====================
 Repo URL: https://github.com/minhtuan1407/personal-expense-report.git
-
-Repo Name: aibi-pocket-debug
-=====================
-Repo URL: https://github.com/minhtuan1407/aibi-pocket-debug.git
 
 Repo Name: flowershop
 =====================
