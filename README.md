@@ -4,6 +4,10 @@ Repo Name: opds-server
 =====================
 Repo URL: https://github.com/minhtuan1407/opds-server.git
 
+Repo Name: homelab
+=====================
+Repo URL: https://github.com/minhtuan1407/homelab.git
+
 Repo Name: personal-expense-report
 =====================
 Repo URL: https://github.com/minhtuan1407/personal-expense-report.git
@@ -19,10 +23,6 @@ Repo URL: https://github.com/minhtuan1407/caddy-vpn-proxy.git
 Repo Name: esp32-s3-hud
 =====================
 Repo URL: https://github.com/minhtuan1407/esp32-s3-hud.git
-
-Repo Name: homelab
-=====================
-Repo URL: https://github.com/minhtuan1407/homelab.git
 
 Repo Name: aibi-pocket-debug
 =====================
